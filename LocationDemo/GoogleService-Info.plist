@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>481485227075-9eke7nsq5ht509bg3k6e4u3i7gmfs6pg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.481485227075-9eke7nsq5ht509bg3k6e4u3i7gmfs6pg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDie16ugL_9nmzNYhBcK6j3NAKJrNysg1Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>481485227075</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.onix.LocationDemo</string>
+	<key>PROJECT_ID</key>
+	<string>locationdemo-80d43</string>
+	<key>STORAGE_BUCKET</key>
+	<string>locationdemo-80d43.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:481485227075:ios:355082d142feae4fe800f6</string>
+	<key>DATABASE_URL</key>
+	<string>https://locationdemo-80d43-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
